@@ -3,7 +3,6 @@
 /logs
 !.gitattributes
 !.gitignore
-!readme.md
 !.gitkeep
 !*.json
 !*.yml
