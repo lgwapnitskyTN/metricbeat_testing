@@ -1,0 +1,10 @@
+*.*
+/data
+/logs
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.json
+!*.yml
+!*.yml.disabled
